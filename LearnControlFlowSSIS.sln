@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "LearnControlFlowSSIS", "LearnControlFlowSSIS\LearnControlFlowSSIS.dtproj", "{0711DEE7-02CE-4A8A-8C63-F0C28BD63411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0711DEE7-02CE-4A8A-8C63-F0C28BD63411}.Development|Default.ActiveCfg = Development
+		{0711DEE7-02CE-4A8A-8C63-F0C28BD63411}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB0B54FF-6944-4590-9904-5EC473FD8936}
+	EndGlobalSection
+EndGlobal

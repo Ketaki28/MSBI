@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CheckPoints", "CheckPoints\CheckPoints.dtproj", "{81E5970B-8638-4F39-8B7C-CB9A485E3147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E5970B-8638-4F39-8B7C-CB9A485E3147}.Development|Default.ActiveCfg = Development
+		{81E5970B-8638-4F39-8B7C-CB9A485E3147}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AD509CC-1698-4938-A21C-DD9D1B90FFAA}
+	EndGlobalSection
+EndGlobal
